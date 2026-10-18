@@ -1,5 +1,7 @@
 ## Виконав студент групи АІ-254 Панькевич Вячеслав Вячеславович
 
+<img width="678" height="77" alt="image" src="https://github.com/user-attachments/assets/db22bc96-12de-4bbd-be36-e35084b415f5" />
+
 <img width="787" height="426" alt="image" src="https://github.com/user-attachments/assets/031f5ae1-3d8c-4e8e-acc3-a7fa6bf24d2a" />
 
 <img width="789" height="686" alt="image" src="https://github.com/user-attachments/assets/754e26f2-3535-475a-acc7-725a81f99f85" />
